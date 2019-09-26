@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Levels/MainMenu/MainMenu.unity
+    guid: baab20c248a19a84c9e720af87af80e5
+  - enabled: 1
     path: Assets/Levels/overworld1.unity
     guid: f3b2147ed12e83f479d63f938f1bf731
   - enabled: 1
@@ -20,4 +23,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Levels/nether1/dialogues/dialogue3.unity
     guid: 08c5151f933f2ff41a3ee91c9ba114ed
+  - enabled: 1
+    path: Assets/Levels/nether2/dialogues/dialogue1.unity
+    guid: a3dbbeab087d92542950297e607b6496
+  - enabled: 1
+    path: Assets/Levels/nether2/dialogues/dialogue2.unity
+    guid: bdb5de817957360498681b20ed501aea
   m_configObjects: {}
